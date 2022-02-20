@@ -11,6 +11,7 @@ Website:
 https://magfi.io/
 
 Telegram:
+https://t.me/MagicEthereumPortal
 
 Twitter:
 https://twitter.com/MeM_Ethereum
